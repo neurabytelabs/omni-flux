@@ -1,0 +1,7 @@
+{
+  "name": "OMNI-FLUX",
+  "description": "An advanced, highly configurable recursive feedback visualizer. Manipulate the fabric of digital chaos with precision controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
